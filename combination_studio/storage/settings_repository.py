@@ -1,0 +1,1 @@
+from .history_repository import HistoryRepository as SettingsRepository
